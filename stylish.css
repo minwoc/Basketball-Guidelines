@@ -1,0 +1,100 @@
+.title{
+  text-align:center;
+  font-size: 20px;
+}
+.firsthalf{
+  background-image: url(nba-logo.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.subtitle{
+  margin-left: 10px;
+
+}
+
+/*.positions, .rules{
+  border: blue solid .5px;
+  padding-bottom: 10px;
+} */
+
+.format1{
+  margin-left: 40px;
+  font-size: 20px;
+}
+
+.rulescontents{
+margin-left: 5%;
+background-color: lightgray;
+margin-right: 70%;
+border-bottom-left-radius: 10%;
+border-bottom-right-radius: 10%;
+border-top-left-radius: 10%;
+border-top-right-radius: 10%;
+box-sizing: border-box;
+}
+
+
+.container2{
+  display: flex;
+}
+
+.ETeams{
+  margin-left: 50%;
+}
+
+
+
+
+.players{
+  margin-top: 10%;
+  text-align: center;
+  border: blue solid 1px;
+}
+
+
+
+
+ .secondhalf{
+background-color: brown;
+ }
+
+
+ .image {
+  height: 30%
+}
+
+.i1{
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+-ms-box-sizing: border-box;
+display: flex;
+}
+
+
+.gameinfotitle{
+  text-align: center;
+  background-color: lightyellow;
+    display: flex;
+}
+
+.playerinfo {
+  background-color: pink;
+}
+
+
+  .playerinfo, .description, .image {
+  width: 33.3%;
+  margin: 1%;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+}
+
+.description{
+  background-color: lightgreen;
+}
+
+.boxforplayer{
+  background-color: lightgray;
+}
